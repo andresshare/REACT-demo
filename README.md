@@ -1,4 +1,4 @@
-# FOLDER SCRIPTS 
+# React.demo
 ![N|Solid](https://webtoolfeed.files.wordpress.com/2012/10/games1.jpg)
 
 > it's  just js to remember and study
